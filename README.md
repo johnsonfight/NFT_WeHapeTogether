@@ -14,7 +14,7 @@
 - Click "1. MintToThisWallet"
 - Fill payableAmount (ether) with 0 (Hurray! free NFT)
 - Fill _to (address) with [address of your wallet]
-- Click Write and 
+- Click Write and confirm transaction
 
 ![avatar](https://github.com/johnsonfight/NFT_WeHapeTogether/blob/main/images/tutorial_1.png)
 
