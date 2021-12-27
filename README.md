@@ -10,6 +10,7 @@
 
 ### 2. Mint an NFT directly from the smart contract
 - Access to the [smart contract](https://rinkeby.etherscan.io/token/0x132daf22dede268656f32c54c0f9763256738fa7#writeContract) on Rinkeby Etherscan 
+- Click "Connect to Web3" to connect your wallet
 - Click "1. MintToThisWallet"
 - Fill payableAmount (ether) with 0 (Hurray! free NFT)
 - Fill _to (address) with [address of your wallet]
